@@ -15,9 +15,9 @@ public class SeleniumLearning {
 		
 		
 		WebDriverManager.chromedriver().setup(); // 
+
+		
 		//WebDriverManager.firefoxdriver().setup();
-		
-		
 		//System.setProperty("webdriver.chrome.driver", "//Users//rasulm//Downloads//chromedriver");
 
 		
@@ -45,10 +45,6 @@ public class SeleniumLearning {
 		}
 		
 		mychrome.close();
-		
-		
-		
-		
 	}
 
 }
